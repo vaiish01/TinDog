@@ -1,1 +1,1 @@
-WS-WD : TinDog website
+WS-WD : TinDog clone website
